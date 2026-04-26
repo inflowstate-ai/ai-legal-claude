@@ -1,5 +1,5 @@
 ---
-name: ctl-loan
+name: legal-ctl-loan
 description: Reference for analyzing, structuring, negotiating, and reviewing Credit Tenant Lease (CTL) loans in any context — governmental or corporate tenants, single-tenant net-lease properties, P3/DBF transactions, sale-leasebacks, build-to-suit financings, ground-lease/improvement-lease structures. Use this whenever the user asks about CTL financing, bondable leases, leasehold mortgages, single-tenant net-lease debt, lease-as-collateral underwriting, capital markets execution for net leases, lender step-in or cure rights, true-lease tax characterization, or any scenario where loan repayment is principally driven by a single tenant's lease payment stream. Trigger this skill even when the user does not explicitly say "CTL" — phrases like "lease-backed financing," "single-tenant loan," "credit tenant deal," "bondable lease," "net-lease bond," or any review of a long-term net lease where a lender is or will be involved should pull this in. Also trigger when reviewing a public-sector lease with a private developer/SPE, since most of those are CTL-financed and the lease drafting must be tested against CTL constraints.
 ---
 
